@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Victor Borro 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victorborro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorborro91@gmail.com@gmail.com)
+
 
 <p>
   <img 
